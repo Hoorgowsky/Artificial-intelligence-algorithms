@@ -1,3 +1,5 @@
-# NeuralNetwork
-Neural Network for MIW 
+# MIW - AI
+Neural Network for MIW
+
+
 Min-max algorithm
