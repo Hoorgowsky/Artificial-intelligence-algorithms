@@ -1,5 +1,3 @@
-# MIW - AI
-Neural Network for MIW
+# Artificial intelligence
 
-
-Min-max algorithm
+Implementation of artificial intelligence algorithms and data structure in Python 
